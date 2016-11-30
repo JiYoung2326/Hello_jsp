@@ -7,6 +7,9 @@ public class Hello {
         // 012345:hofix edit by jiyoung
 		System.out.println("Hotfix edit/modify");
 	    //012345:end
+		]
+	    //0215238:origin/master edit by jiyoung
+			Setyem.out.println("github edit");
 	}
 
 }
