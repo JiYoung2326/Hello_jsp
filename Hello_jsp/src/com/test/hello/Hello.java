@@ -10,6 +10,10 @@ public class Hello {
 		]
 	    //0215238:origin/master edit by jiyoung
 			Setyem.out.println("github edit");
+		// 31521 : origin/master eidit by son
+		Setyem.out.println("github edit 4567");
+		// Setyem.out.println("github edit"); 
+		//31521 end
 	}
 
 }
